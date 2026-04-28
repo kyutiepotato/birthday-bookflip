@@ -128,7 +128,7 @@ const Flipbook = () => {
   useEffect(() => {
     if (!audioRef.current) {
       const a = new Audio(
-        "https://cdn.pixabay.com/audio/2023/10/12/audio_d75b37e7b0.mp3"
+        "/music/happy-birthday.mp3"
       );
       a.loop = true;
       a.volume = 0.35;

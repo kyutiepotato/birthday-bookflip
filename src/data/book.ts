@@ -24,8 +24,8 @@ export const spreads: Spread[] = [
     heading: "A Year Worth Toasting",
     caption: "More reasons to celebrate with you. Happy birthday, hon!",
     images: [
-      { src: photo1, alt: "Elegant birthday table with rose gold balloons and champagne" },
-      { src: photo4, alt: "Two champagne flutes toasting against warm bokeh lights" },
+      { src: photo1, alt: "Calm person and has good heart." },
+      { src: photo4, alt: "Moody but loving HAHAHAHA." },
     ],
   },
   {
@@ -33,8 +33,8 @@ export const spreads: Spread[] = [
     heading: "Sweet as You Are",
     caption: "Every wish is a chapter of life waiting to be written, and every light is a dream.",
     images: [
-      { src: photo2, alt: "Elegant white birthday cake with gold leaf and pink roses" },
-      { src: photo3, alt: "Friends laughing together under fairy lights" },
+      { src: photo2, alt: "Thank you for being part of my life." },
+      { src: photo3, alt: "Nonchalant but funny eyy!" },
     ],
   },
   {
