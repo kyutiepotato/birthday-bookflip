@@ -15,7 +15,7 @@ export const spreads: Spread[] = [
   {
     type: "greeting",
     title: "Happy 21st Birthday",
-    subtitle: `to our dearest ${BIRTHDAY_NAME}`,
+    subtitle: `to my dearest ${BIRTHDAY_NAME}`,
     body:
       "Today the world celebrates the most radiant soul it has ever known. Twenty-one years of laughter, of light, of becoming — and the very best is just beginning. Turn the page, and let the memories unfold…",
   },
